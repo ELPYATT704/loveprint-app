@@ -57,7 +57,8 @@ LovePrint helps people understand:
 - `/design` → branding + UI mockups  
 
 ---
-
+- 🔹 Archetype-based book recommendations with Amazon affiliate monetization
+---
 ## 🚧 Status
 
 MVP in development
